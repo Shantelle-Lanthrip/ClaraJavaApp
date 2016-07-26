@@ -18,5 +18,9 @@
         <processorPath useClasspath="true" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="clara-app_main" target="1.5" />
+      <module name="clara-app_test" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

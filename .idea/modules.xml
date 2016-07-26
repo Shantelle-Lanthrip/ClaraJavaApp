@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/clara-app.iml" filepath="$PROJECT_DIR$/.idea/modules/clara-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clara-app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/clara-app_main.iml" group="clara-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clara-app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/clara-app_test.iml" group="clara-app" />
     </modules>
   </component>
 </project>
